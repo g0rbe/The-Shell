@@ -59,8 +59,8 @@ body {
 	font-family: "Courier New", Courier, monospace;
 	font-size: 2.0rem;
 	line-height: 1.6em;
-	color: #B2B6BD;
-	background: #2b303b
+	color: wheat;
+	background: black
 }
 
 ::selection {
@@ -107,13 +107,13 @@ h6 a {
 }
 
 h1 {
-	font-size: 5rem;
+	font-size: 7rem;
 	line-height: 1.2em;
 	text-indent: -3px
 }
 
 h2 {
-	font-size: 4rem;
+	font-size: 3.3rem;
 	line-height: 1.2em;
 	text-indent: -2px
 }
@@ -372,7 +372,7 @@ textarea {
 	margin-bottom: 5rem;
 	text-align: center;
 	color: #a0add5;
-	background: #1c212b no-repeat center center;
+	background: black no-repeat center center;
 	background-size: cover
 }
 
@@ -440,7 +440,7 @@ textarea {
 
 .post {
 	position: relative;
-	width: 80%;
+	width: 100%;
 	max-width: 700px;
 	margin: 4rem auto;
 	padding-bottom: 4rem;
@@ -666,7 +666,7 @@ textarea {
 	line-height: 1.7em;
 	color: #BBC7CC;
 	text-align: center;
-	background: #1c212b
+	background: black
 }
 
 .site-footer a {
@@ -807,11 +807,11 @@ textarea {
 		margin: 40px auto
 	}
 	h1 {
-		font-size: 4.8rem;
+		font-size: 7rem;
 		text-indent: -2px
 	}
 	h2 {
-		font-size: 3.8rem
+		font-size: 3.3rem
 	}
 	h3 {
 		font-size: 3.3rem
@@ -856,7 +856,7 @@ textarea {
 	}
 	h1,
 	h2 {
-		font-size: 3rem;
+		font-size: 3.3rem;
 		line-height: 1.1em;
 		letter-spacing: -1px
 	}
